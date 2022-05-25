@@ -22,7 +22,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: s1687781@ed.ac.uk
@@ -34,22 +34,22 @@ content:
     country: United Kingdom
     country_code: UK
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '55.9214'
+    longitude: '3.1733'
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  # office_hours:
+    # - 'Monday 10:00 to 13:00'
+    # - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    # - icon: video
+    #  icon_pack: fas
+    #  name: Zoom Me
+    #  link: 'https://zoom.com'
 
 design:
   columns: '2'
