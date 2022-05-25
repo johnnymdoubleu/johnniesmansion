@@ -1,6 +1,6 @@
 ---
 title: Johnny Lee
-# avatar_filename: kakaotalk_20210807_231322609_04.jpg
+<!---avatar_filename: kakaotalk_20210807_231322609_04.jpg--->
 bio: My research interests lies on Bayesian Statistics, Meta Learning and
   Machine Learning
 interests:
